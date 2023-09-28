@@ -1,5 +1,4 @@
-![PhishFort Logo](https://i.imgur.com/mQRhIWh.png#gh-dark-mode-only)
-![PhishFort Logo](https://i.imgur.com/YBah4n1.png#gh-light-mode-only)
+![PhishFort Logo](https://i.imgur.com/mQRhIWh.png#gh-dark-mode-only)![PhishFort Logo](https://i.imgur.com/YBah4n1.png#gh-light-mode-only)
 
 > Now protecting over 402 million monthly active users across the globe! 
 
